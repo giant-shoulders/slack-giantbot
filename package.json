@@ -1,8 +1,9 @@
 {
   "name": "giantbot",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Hackable bot with giant shoulders.",
   "main": "index.js",
+  "private": true,
   "scripts": {
     "start": "node index.js",
     "dev": "nodemon --inspect index.js"
