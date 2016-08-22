@@ -1,6 +1,6 @@
 {
   "name": "giantbot",
-  "version": "0.4.0",
+  "version": "0.5.0",
   "description": "Hackable bot with giant shoulders.",
   "main": "index.js",
   "private": true,
