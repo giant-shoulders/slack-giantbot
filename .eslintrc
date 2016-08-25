@@ -1,6 +1,7 @@
 {
   "extends": "airbnb-base",
   "rules": {
-    "quotes": [2, "single", {"allowTemplateLiterals": true }]
+    "quotes": [2, "single", {"allowTemplateLiterals": true }],
+    "max-len": 0
   }
 }
