@@ -19,6 +19,7 @@
     "change-case": "^3.0.0",
     "feed-read": "0.0.1",
     "google-search": "0.0.4",
+    "moment": "^2.14.1",
     "node-wolfram": "0.0.1",
     "request": "^2.74.0",
     "request-promise": "^4.1.1",
