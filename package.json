@@ -24,6 +24,7 @@
     "pokedex-promise-v2": "^3.0.1",
     "request": "^2.74.0",
     "request-promise": "^4.1.1",
+    "tinycolor2": "^1.4.1",
     "winston": "^2.2.0"
   },
   "devDependencies": {
